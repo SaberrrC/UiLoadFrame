@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">开源中国</string>
+    <string name="app_name">OSC-UILoadFrame</string>
     <string name="load_more">加载中...</string>
     <string name="load_error">重新加载</string>
 

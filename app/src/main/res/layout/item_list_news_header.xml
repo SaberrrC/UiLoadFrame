@@ -38,7 +38,7 @@
                 android:text="周五乱弹 — 饿的时候只有一个饼！还是画的" />
 
             <!--五个点-->
-            <com.github.osc.ui.view.indicator.CirclePagerIndicator
+            <com.github.saberrrc.osc.ui.view.indicator.CirclePagerIndicator
                 android:id="@+id/indicator"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
